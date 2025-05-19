@@ -1,0 +1,10 @@
+# Jupyter checkpoints
+**/.ipynb_checkpoints
+
+# Arquivos Python compilados
+*.pyc
+__pycache__/
+
+# Ambiente virtual
+.venv/
+env/
